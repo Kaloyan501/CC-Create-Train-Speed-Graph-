@@ -10,5 +10,5 @@ Desktop Version (Currently not working)
 2. Make a Create Mod Train
 3. Make a setup on the train using an advanced computer, a modem and a monitor like this:
 ![image](https://github.com/Kaloyan501/CC-Create-Train-Speed-Graph-/assets/68351222/1b7ecd64-41dc-43f0-8ad9-6cc4d51ad78a)
-4. Put the speed script on the advanced computer
+4. Put the advanced-computer-speed script on the advanced computer
 5. Enjoy!
