@@ -31,7 +31,7 @@ while true==true do
     local a_y = nil
     local a_z = nil
     local b_z = nil
-    print(distance)
+    --print(distance)
     os.sleep(0.5)
     
    -- print("Speed")
