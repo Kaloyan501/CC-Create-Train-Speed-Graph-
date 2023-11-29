@@ -1,6 +1,6 @@
 # CC-Create-Train-Speed-Graph
 
-Using @9551-Dev 's library
+Using @9551-Dev 's library: https://github.com/9551-Dev/apis
 
 A little repo where I placed my spagetti script for messuring the speed of a Create Mod train.
 
