@@ -38,7 +38,14 @@ while true==true do
     print("Speed")
     local speed = distance/5.5
     print(speed)
+    term.setBackgroundColor(colors.black)
+    term.setTextColor(colors.white)
     
     graph:add(speed)
     graph:push()
-    box:render(
+    box:render()
+    term.setCursorPos(1, 1)
+    term.setBackgroundColor(colors.white)
+    term.setTextColor(colors.black)
+    print("Current speed:"..speed.. " a second")
+end
