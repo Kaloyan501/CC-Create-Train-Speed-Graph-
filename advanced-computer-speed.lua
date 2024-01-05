@@ -38,8 +38,9 @@ while true==true do
     print("Speed")
     local speed = distance/5.5
     print(speed)
-    term.setBackgroundColor(colors.black)
-    term.setTextColor(colors.white)
+    monitor.setBackgroundColor(colors.black)
+    monitor.setBackgroundColor(colors.black)
+    monitor.setTextColor(colors.white)
     
     graph:add(speed)
     graph:push()
@@ -47,5 +48,5 @@ while true==true do
     term.setCursorPos(1, 1)
     term.setBackgroundColor(colors.white)
     term.setTextColor(colors.black)
-    print("Current speed:"..speed.. " a second")
+    monitor.write("Current speed:"..speed.. " a second")
 end
